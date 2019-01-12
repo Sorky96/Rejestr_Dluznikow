@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Osoba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="Dluznik">
+  <Imie />
+  <Nazwisko />
+  <Adres />
+  <Dlug_do_splaty>1214124122</Dlug_do_splaty>
+  <Zaleglych_dni>32132</Zaleglych_dni>
+  <Wyslanych_ponaglen>212</Wyslanych_ponaglen>
+  <Czy_w_sadzie>false</Czy_w_sadzie>
+</Osoba>

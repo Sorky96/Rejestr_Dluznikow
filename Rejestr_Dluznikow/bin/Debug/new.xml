@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dluznik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Imie />
+  <Nazwisko />
+  <Adres />
+  <Dlug_do_splaty>12</Dlug_do_splaty>
+  <Zaleglych_dni>32</Zaleglych_dni>
+  <Wyslanych_ponaglen>12</Wyslanych_ponaglen>
+  <Czy_w_sadzie>true</Czy_w_sadzie>
+</Dluznik>

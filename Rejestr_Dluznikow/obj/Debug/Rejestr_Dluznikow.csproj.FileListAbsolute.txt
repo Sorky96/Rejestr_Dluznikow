@@ -1,0 +1,7 @@
+C:\Users\ziemn\source\repos\Rejestr_Dluznikow\Rejestr_Dluznikow\bin\Debug\Rejestr_Dluznikow.exe.config
+C:\Users\ziemn\source\repos\Rejestr_Dluznikow\Rejestr_Dluznikow\bin\Debug\Rejestr_Dluznikow.exe
+C:\Users\ziemn\source\repos\Rejestr_Dluznikow\Rejestr_Dluznikow\bin\Debug\Rejestr_Dluznikow.pdb
+C:\Users\ziemn\source\repos\Rejestr_Dluznikow\Rejestr_Dluznikow\obj\Debug\Rejestr_Dluznikow.csprojResolveAssemblyReference.cache
+C:\Users\ziemn\source\repos\Rejestr_Dluznikow\Rejestr_Dluznikow\obj\Debug\Rejestr_Dluznikow.csproj.CoreCompileInputs.cache
+C:\Users\ziemn\source\repos\Rejestr_Dluznikow\Rejestr_Dluznikow\obj\Debug\Rejestr_Dluznikow.exe
+C:\Users\ziemn\source\repos\Rejestr_Dluznikow\Rejestr_Dluznikow\obj\Debug\Rejestr_Dluznikow.pdb
